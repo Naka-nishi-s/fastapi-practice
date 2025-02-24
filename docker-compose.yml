@@ -11,4 +11,4 @@ services:
     container_name: "frontend"
     working_dir: "/opt/frontend/app"
     ports:
-      - "3000:5173"
+      - "3000:3000"

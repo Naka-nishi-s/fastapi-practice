@@ -13,4 +13,4 @@ RUN cd /opt/frontend/app/ && npm i -g vite
 COPY ./dev/frontend/app/ /opt/frontend/app/
 
 # サーバーを起動
-CMD [ "npm", "run", "dev" ]
+CMD [ "npm", "run", "dev"]
